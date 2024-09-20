@@ -4,6 +4,10 @@
 
 Un **MultiArch Build** permite crear imágenes de Docker que pueden ejecutarse en diferentes arquitecturas de procesador (por ejemplo, `amd64` y `arm64`). Docker utiliza manifestos para agrupar múltiples imágenes bajo un mismo tag, lo que permite seleccionar automáticamente la imagen adecuada según la arquitectura de la máquina donde se ejecuta el contenedor.
 
+## Consideraciones
+
+En la carpeta `soluciones` se creará una carpeta con el siguiente formato `<vuestro nombre>-Ejercicio-Extra-3`, donde se incluirán capturas del proceso de construcción y verificación, y un archivo `README.md` con las explicaciones de los pasos realizados.
+
 ## Tarea
 
 1. **Habilitar características experimentales de Docker:**

@@ -6,7 +6,7 @@ Crear un clúster de Docker Swarm con un nodo manager y varios workers, desplega
 
 ## Consideraciones
 
-En la carpeta `soluciones` se creará una carpeta con el siguiente formato `<vuestro nombre>-Ejercicio-Extra-2`, donde se incluirán capturas del proceso de construcción y verificación, y un archivo `README.md` con las explicaciones de los pasos realizados.
+En la carpeta `soluciones` se creará una carpeta con el siguiente formato `<vuestro nombre>-Ejercicio-Extra-2`, donde se incluirán los directorios y Dockerfiles requeridos en el ejercicio, capturas del proceso de construcción y verificación, y un archivo `README.md` con las explicaciones de los pasos realizados.
 
 Se utilizarán las herramientas `docker-machine` y `virtualbox`. 
 
